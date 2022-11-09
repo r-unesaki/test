@@ -1,4 +1,4 @@
 program name
     implicit none
-    write(*,*) "Hello"
+    write(*,*) "Hellow"
 end program name
